@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../personal js project/GUY ET REMEO/security-services"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Securty-guard-1",
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#003606",
+			"titleBar.activeBackground": "#004C08",
+			"titleBar.activeForeground": "#EDFFEF"
+		}
+	}
+}
